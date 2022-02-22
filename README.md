@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Im-Kuldeep
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
-- 📫 How to reach me via email kuldeep98223@gmail.com
+- 📫 You can reach me via email, my email is 'kuldeep98223@gmail.com'
 
 <!---
 Im-Kuldeep/Im-Kuldeep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
